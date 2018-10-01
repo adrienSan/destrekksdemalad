@@ -1374,12 +1374,12 @@ body {
 }
 .cid-r4GhE3lmlf .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #465052;
   transition: none;
   min-height: 77px;
 }
 .cid-r4GhE3lmlf .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #465052;
 }
 .cid-r4GhE3lmlf a {
   font-style: normal;
@@ -1463,7 +1463,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r4GhE3lmlf .dropdown .dropdown-menu {
-  background: #333333;
+  background: #465052;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1875,12 +1875,12 @@ body {
 .cid-r5fMLzC4dS {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #767676;
+  background-color: #879a9f;
 }
 .cid-r5fMFjJA83 {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
-  background-color: #767676;
+  background-color: #879a9f;
 }
 .cid-r5fMFjJA83 .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1903,8 +1903,7 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: #5b686b;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -1933,14 +1932,16 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: #5b686b !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-r5fMFjJA83 .mbr-gallery-item > div > span {
+  text-align: center;
+}
 .cid-r4GhR2hdaY {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #465052;
 }
