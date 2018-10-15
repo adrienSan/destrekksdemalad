@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Des Trekks de MalAd",
-    "currentPage": "reunion.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -736,7 +736,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Les 3 Cirques de la Réunion<br>Juin 2015 - 4 jours",
+                "caption": "<a href=\"reunion.html#header2-d\">Les 3 Cirques de la Réunion</a><br><a href=\"reunion.html#header2-d\">Juin 2015 - 4 jours</a>",
                 "active": true
               }
             ]
