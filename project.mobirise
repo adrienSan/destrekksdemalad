@@ -1520,7 +1520,7 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/tmb-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cirques-reunion-01-small-945x628.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
